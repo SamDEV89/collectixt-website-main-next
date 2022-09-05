@@ -1,54 +1,54 @@
 
 
-$("#closeBtn").on('click', function () {
-    $("#modal").hide();
-  });
-  $("#modalOpen").on('click', function () {
-    $("#modal").show();
-  });
-  function showModal() {
+// $("#closeBtn").on('click', function () {
+//     $("#modal").hide();
+//   });
+//   $("#modalOpen").on('click', function () {
+//     $("#modal").show();
+//   });
+//   function showModal() {
   
-    $("#modal").show();
-  }
-  
-  
-  
-  
-  $("#closeBtn").on('click', function () {
-    $("#ETH-modal").hide();
-  });
-  $("#modalOpen").on('click', function () {
-    $("#ETH-modal").show();
-  });
-  function showModal() {
-  
-    $("#ETH-modal").show();
-  }
+//     $("#modal").show();
+//   }
   
   
   
-  $("#closeBtn1").on('click', function () {
-    $("#USDT-modal").hide();
-  });
-  $("#modalOpen1").on('click', function () {
-    $("#USDT-modal").show();
-  });
-  function showModal() {
   
-    $("#USDT-modal").show();
-  }
+//   $("#closeBtn").on('click', function () {
+//     $("#ETH-modal").hide();
+//   });
+//   $("#modalOpen").on('click', function () {
+//     $("#ETH-modal").show();
+//   });
+//   function showModal() {
+  
+//     $("#ETH-modal").show();
+//   }
   
   
-  $("#closeBtn2").on('click', function () {
-    $("#CARD-modal").hide();
-  });
-  $("#modalOpen2").on('click', function () {
-    $("#CARD-modal").show();
-  });
-  function showModal() {
   
-    $("#CARD-modal").show();
-  }
+//   $("#closeBtn1").on('click', function () {
+//     $("#USDT-modal").hide();
+//   });
+//   $("#modalOpen1").on('click', function () {
+//     $("#USDT-modal").show();
+//   });
+//   function showModal() {
+  
+//     $("#USDT-modal").show();
+//   }
+  
+  
+//   $("#closeBtn2").on('click', function () {
+//     $("#CARD-modal").hide();
+//   });
+//   $("#modalOpen2").on('click', function () {
+//     $("#CARD-modal").show();
+//   });
+//   function showModal() {
+  
+//     $("#CARD-modal").show();
+//   }
   
   
   

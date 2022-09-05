@@ -17,10 +17,10 @@ export default function AfterConnect() {
         <div className="container grid">
           <div className="get-in-early-text">
             <p>
-              It couldn't be easier to get your hands on the token in our
+              It couldn&apost be easier to get your hands on the token in our
               pre-sale. You can buy Collectixt directly using your card, or can
               use USDT or ETH already in your wallet. After the public presale
-              ends, you'll be able to claim your purchased Collectixt Tokens
+              ends, you&aposll be able to claim your purchased Collectixt Tokens
               using the claim page.
             </p>
           </div>

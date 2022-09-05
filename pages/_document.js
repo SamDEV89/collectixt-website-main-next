@@ -45,7 +45,7 @@ class MyDocment extends Document {
             src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.29.4/moment.min.js"
             strategy="lazyOnload"
           />
-          <Script
+          <Script id="my-script1"
             strategy="afterInteractive"
             dangerouslySetInnerHTML={{
               __html: `
@@ -57,7 +57,7 @@ class MyDocment extends Document {
           `,
             }}
           />
-          <Script
+          <Script id="my-script2"
             strategy="afterInteractive"
             dangerouslySetInnerHTML={{
               __html: `
@@ -70,7 +70,7 @@ class MyDocment extends Document {
           `,
             }}
           />
-          <Script
+          <Script id="my-script3"
             strategy="afterInteractive"
             dangerouslySetInnerHTML={{
               __html: `
@@ -92,7 +92,7 @@ class MyDocment extends Document {
           `,
             }}
           />
-          <Script
+          <Script id="my-script4"
             strategy="afterInteractive"
             dangerouslySetInnerHTML={{
               __html: `
@@ -116,7 +116,7 @@ class MyDocment extends Document {
           `,
             }}
           />
-          <Script
+          <Script id="my-script5"
             strategy="afterInteractive"
             dangerouslySetInnerHTML={{
               __html: `

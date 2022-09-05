@@ -13,7 +13,7 @@ const CardModal = () => {
       {show && (
         <Modal close={close}>
           <div className="container mx-auto">
-            <div className="black-box">
+            {/* <div className="black-box">
               <h2 className="md:mb-6 mb-8 text-gradient text-3xl">
                 Buy CLEX With CARD
               </h2>
@@ -38,7 +38,7 @@ const CardModal = () => {
                   Buy CLEX With CARD
                 </button>
               </form>
-            </div>
+            </div> */}
           </div>
         </Modal>
       )}
